@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=140&section=header&text=Mohammad%20Shahman%20Butt&fontSize=36&fontColor=06b6d4&fontAlignY=65&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20API%20Developer&descSize=15&descFontColor=c4b5fd&descAlignY=82" width="100%"/>
 
 <br/>
 
